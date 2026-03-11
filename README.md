@@ -19,3 +19,4 @@ App em Streamlit para preencher checklist de condicionantes/medidas de mitiga√ß√
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+</>Markdown
